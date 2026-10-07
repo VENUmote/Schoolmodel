@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="80" height="80" viewBox="0 0 80 80" role="img" aria-labelledby="title">
+  <title id="title">Sage High School emblem</title>
+  <defs>
+    <linearGradient id="sage" x1="9" y1="8" x2="69" y2="73" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#426f50"/>
+      <stop offset="1" stop-color="#285843"/>
+    </linearGradient>
+  </defs>
+  <rect x="2" y="2" width="76" height="76" rx="23" fill="url(#sage)"/>
+  <path d="M40 13 17 29h5v29h36V29h5L40 13Z" fill="#f8f7f2" opacity=".96"/>
+  <path d="M40 18 24 29h32L40 18Z" fill="#e4ca83"/>
+  <path d="M27 34h9v13h-9zM44 34h9v13h-9z" fill="#a8c9b4"/>
+  <path d="M38 40c-6 7-6 17 2 24 8-7 8-17 2-24-1 4-1 7-2 11-1-4-1-7-2-11Z" fill="#7da77c"/>
+  <path d="M40 49v12" stroke="#f8f7f2" stroke-linecap="round" stroke-width="1.6"/>
+</svg>

@@ -1,0 +1,54 @@
+.static-demo-notice {
+  display: grid;
+  grid-template-columns: auto minmax(0, 1fr) auto;
+  align-items: center;
+  gap: 10px 18px;
+  padding: 13px max(24px, calc((100% - 1160px) / 2));
+  background: #f3efe0;
+  color: #344237;
+}
+.static-demo-notice > span {
+  color: #526d50;
+  font-size: 9px;
+  font-weight: 800;
+  letter-spacing: 1.1px;
+}
+.static-demo-notice > p {
+  margin: 0;
+  color: #667166;
+  font-size: 10px;
+  line-height: 1.6;
+}
+.static-demo-notice > a {
+  color: #285843;
+  font-size: 10px;
+  font-weight: 700;
+  white-space: nowrap;
+}
+#student-check,
+#staff-portal,
+#fees,
+#bus-fees,
+#live-bus,
+.achievement-showcase,
+a[href="#student-check"],
+a[href="#staff-portal"],
+a[href="#fees"],
+a[href="#live-bus"] {
+  display: none !important;
+}
+@media (max-width: 760px) {
+  .static-demo-notice {
+    grid-template-columns: 1fr auto;
+    gap: 5px 12px;
+    padding: 11px 20px;
+  }
+  .static-demo-notice > span,
+  .static-demo-notice > p {
+    grid-column: 1 / -1;
+  }
+  .static-demo-notice > a {
+    grid-column: 1 / -1;
+    white-space: normal;
+  }
+}

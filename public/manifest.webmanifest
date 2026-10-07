@@ -1,0 +1,29 @@
+{
+  "id": "/",
+  "name": "Sage High School",
+  "short_name": "Sage School",
+  "description": "A student-friendly school website with learning resources and daily eco actions.",
+  "lang": "en",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "background_color": "#f8f7f2",
+  "theme_color": "#285843",
+  "icons": [
+    {
+      "src": "/sage-app-icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/sage-app-icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "/sage-logo.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
