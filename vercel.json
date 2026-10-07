@@ -1,0 +1,5 @@
+{
+  "buildCommand": "python build_static.py",
+  "outputDirectory": "public",
+  "framework": null
+}

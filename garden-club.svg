@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360" fill="none">
+  <title>Garden club</title>
+  <defs>
+    <linearGradient id="sky" x1="320" y1="0" x2="320" y2="360" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#DCEBD7"/>
+      <stop offset="1" stop-color="#F4E9C9"/>
+    </linearGradient>
+    <linearGradient id="soil" x1="0" y1="224" x2="640" y2="336" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#91664C"/>
+      <stop offset="1" stop-color="#684D3E"/>
+    </linearGradient>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h640v360H0z"/>
+  <circle cx="530" cy="73" r="39" fill="#F4C96E"/>
+  <circle cx="530" cy="73" r="52" stroke="#F4C96E" stroke-opacity=".38" stroke-width="2"/>
+  <path d="M0 202c83-31 149-27 229 1 66 23 120 27 190-2 78-32 134-24 221 7v152H0z" fill="#A8C79A"/>
+  <path d="M0 247c83-37 164-25 241 0 74 24 144 22 215-7 69-28 123-19 184 5v115H0z" fill="url(#soil)"/>
+  <path d="M51 223c18-20 38-23 59-10 17-19 40-15 52 7l-14 18H62z" fill="#6C976C"/>
+  <path d="M67 220c10-22 23-32 40-30 7 18 1 33-18 44zM112 214c11-19 24-26 39-20 4 18-4 30-24 37z" fill="#83AA72"/>
+  <path d="M245 244c12-47 35-72 69-74 35 2 57 28 68 77z" fill="#A16E4C"/>
+  <path d="M254 239c12-35 32-54 60-55 28 1 48 20 60 57z" fill="#624B3D"/>
+  <path d="M310 188v-61" stroke="#6B915D" stroke-width="9" stroke-linecap="round"/>
+  <path d="M307 153c-42-3-59-23-52-61 38 5 57 24 57 56z" fill="#618F61"/>
+  <path d="M314 143c5-43 28-63 68-58-3 38-24 58-62 62z" fill="#82AA70"/>
+  <path d="M308 171c-33-26-36-53-8-82 26 26 29 52 8 82z" fill="#9ABC79"/>
+  <path d="M388 249c11-36 29-54 54-54 26 0 44 19 54 57z" fill="#A16E4C"/>
+  <path d="M397 240c10-27 25-41 45-41 21 0 36 15 46 44z" fill="#765545"/>
+  <path d="M441 203v-45" stroke="#708F55" stroke-width="7" stroke-linecap="round"/>
+  <path d="M439 181c-29-4-40-20-32-49 27 5 40 20 39 44z" fill="#739A60"/>
+  <path d="M446 176c5-31 22-45 51-41-4 27-20 42-47 45z" fill="#98B96F"/>
+  <path d="M94 290c26-12 48-12 68 0v34c-23 9-46 9-68 0z" fill="#D87962"/>
+  <path d="M99 287h59v11H99z" fill="#F0B27A"/>
+  <path d="M113 288v-16m13 16v-18m13 18v-14" stroke="#E9D4A5" stroke-width="4" stroke-linecap="round"/>
+  <path d="M516 291h67v42h-67z" fill="#7F9A68"/>
+  <path d="M509 288h81v12h-81z" fill="#B8C78D"/>
+  <path d="M535 288v-35m23 35v-45" stroke="#5C8559" stroke-width="5" stroke-linecap="round"/>
+  <path d="M535 267c-19-1-27-12-23-32 18 3 27 12 27 28zM558 264c4-18 15-25 33-21-3 16-13 25-31 26z" fill="#8AAF6F"/>
+  <path d="M231 112c0-10 8-18 18-18s18 8 18 18-8 18-18 18-18-8-18-18z" fill="#F8F0D5"/>
+  <path d="M249 96v32m-16-16h32m-27-11 22 22m0-22-22 22" stroke="#D9AB63" stroke-width="2"/>
+  <path d="M186 181c0-8 6-14 14-14s14 6 14 14-6 14-14 14-14-6-14-14z" fill="#D77A68"/>
+  <circle cx="200" cy="181" r="4" fill="#F3D681"/>
+  <path d="M177 195c8-10 17-14 27-11m7 12c9-10 18-14 28-11" stroke="#6D965F" stroke-width="4" stroke-linecap="round"/>
+  <path d="M581 163c7-7 15-7 22 0m-11-12v24" stroke="#FFF8E7" stroke-width="3" stroke-linecap="round"/>
+</svg>
